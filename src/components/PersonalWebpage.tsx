@@ -41,7 +41,7 @@ export const PersonalWebpage: React.FC = () => {
               <div className="text-[9px] uppercase tracking-[0.2em] text-zinc-700 font-mono">artifact.01</div>
             </div>
             
-            <h2 className="text-xl text-zinc-200 mb-1 font-light tracking-tight">SUMMA Matrix Multiplication</h2>
+            <h2 className="text-xl text-zinc-200 mb-1 font-light tracking-tight">Scalable Universal Matrix Multiplication (SUMMA) Algorithm</h2>
             <p className="text-xs text-zinc-600 mb-8 font-light">parallel algorithm simulation.</p>
 
             <div className="flex items-center gap-2 text-[9px] text-zinc-500 uppercase tracking-[0.2em] group-hover:text-zinc-300 transition-all">

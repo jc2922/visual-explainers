@@ -1,6 +1,6 @@
 {
   "name": "Visual Explainers",
-  "description": "An interactive portfolio of parallel algorithm visualizations, starting with the SUMMA matrix multiplication simulator.",
+  "description": "An interactive portfolio of visualizations exploring STEM topics, starting with the SUMMA matrix multiplication simulator.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
