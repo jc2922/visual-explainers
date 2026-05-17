@@ -1,6 +1,6 @@
 {
-  "name": "SUMMA Matrix Multiplier",
-  "description": "An interactive visualization of the Scalable Universal Matrix Multiplication Algorithm (SUMMA) highlighting parallel distribution and rank-1 updates.",
+  "name": "Visual Explainers",
+  "description": "An interactive portfolio of parallel algorithm visualizations, starting with the SUMMA matrix multiplication simulator.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
