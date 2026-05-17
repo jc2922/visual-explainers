@@ -23,11 +23,9 @@ import { PersonalWebpage } from './components/PersonalWebpage';
 
 export default function App() {
   return (
-    <BrowserRouter>
       <Routes>
         <Route path="/" element={<PersonalWebpage />} />
         <Route path="/summa" element={<SummaVisualizer />} />
       </Routes>
-    </BrowserRouter>
   );
 }
